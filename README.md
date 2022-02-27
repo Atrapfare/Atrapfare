@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atrapfare&label=Profile%20views&color=0e75b6&style=flat" alt="atrapfare" /> </p>
 
-- 🔭 I’m currently working on [my Homepage](https://github.com/Atrapfare/Homepage)
+- 🔭 I’m currently working on my [Homepage](https://github.com/Atrapfare/Homepage)
 
 - 🌱 I’m currently learning **PHP & Java**
 
