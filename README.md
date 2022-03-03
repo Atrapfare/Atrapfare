@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **PHP & Java**
 
-- 🤝 I’m looking for help with [Front End for Reiche Connection](https://github.com/Atrapfare/ReicheConnection)
-
 - 👨‍💻 All of my projects are available at [https://atrapfare.com](https://atrapfare.com)
 
 - 💬 Ask me about **Webdevelopment**
