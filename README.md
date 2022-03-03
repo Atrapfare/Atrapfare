@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://atrapfare.com](https://atrapfare.com)
 
-- 💬 Ask me about **Webdevelopment**
+- 💬 Ask me about **Webdevelopment** and **Java**
 
 - 📫 How to reach me **dominik@knaup.de**
 
