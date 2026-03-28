@@ -39,6 +39,6 @@
 <a href="https://leetcode.com/u/Atrapfare/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Atrapfare" height="30" width="40" /></a>
 
 
-<p align="center">
+<p>
   📧 <strong>dominik@knaup.de</strong> · 🌐 <strong><a href="https://atrapfare.com">atrapfare.com</a></strong>
 </p>
