@@ -21,9 +21,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
-<div align="center">
-
 | | |
 |:---:|:---:|
 | **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30"/> |
@@ -31,8 +28,6 @@
 | **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="30"/> |
 | **Databases** | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> |
 | **DevOps & Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> |
-
-</div>
 
 ---
 
