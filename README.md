@@ -40,5 +40,5 @@
 
 
 <p align="center">
-  📧 <strong>dominik@knaup.de</strong> · 🌐 <strong><a href="https://atrapfare.com">atrapfare.com</a></strong>
-</p>
+  📧 <strong>dominik@knaup.de</strong> · 🌐 <strong><a href="https://atrapfare.com">atrapfare.com</a></strong> · <strong><a href="https://leetcode.com/u/Atrapfare/">LeetCode</a></strong>
+</p>>
